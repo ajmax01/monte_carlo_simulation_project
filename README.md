@@ -1,1 +1,2 @@
-# monte_carlo_simulation_project
+# Monte Carlo Simulation in Comparison to Black-Scholes Model
+
